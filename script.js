@@ -22,7 +22,7 @@ function startCaptcha() {
 
         // Redirect to the main site after a delay
         setTimeout(() => {
-            window.location.href = "https://1wdwb.com/v3/aviator-fire?sub1={click_id}&sub2=aviator"; // Redirect URL
+            window.location.href = "https://1wbtsu.top/casino/list?open=register"; // Redirect URL
         }, 1500); // 1.5 seconds delay before redirect
     }, 2000); // Simulated processing time (2 seconds)
 }
